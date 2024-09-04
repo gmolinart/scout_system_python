@@ -1,0 +1,16 @@
+{
+    "pacientes": [
+        {
+            "nombre": "Guillermo Molina",
+            "consultas": [
+                {
+                    "fecha": "2024-09-04 14:45:00",
+                    "motivo": "me duele un pie",
+                    "historial": "familia de dolor de pies",
+                    "notas": "no se cura",
+                    "diagnostico": ""
+                }
+            ]
+        }
+    ]
+}
